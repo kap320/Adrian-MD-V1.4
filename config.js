@@ -4,17 +4,17 @@ const chalk = require('chalk')
 global.apikey = '-' //https://api.lolhuman.xyz
 global.rosekey = '-' //https://api.itsrose.life
 //—————「 Set Nama Bot & Own 」—————//
-global.namabot = 'Adrian-MD V2.1'
-global.namaowner = 'Arxzy お-ぎ'
+global.namabot = 'shanachan Team V2.1'
+global.namaowner = 'shanachan お-ぎ'
 
 //—————「 Setting Owner 」—————//
-global.owner = '6289513081052'
-global.ownernomer = ["6289513081052"]
-global.premium = ['6289513081052']
+global.owner = '628597238938'
+global.ownernomer = ["6285974238938"]
+global.premium = ['6285888203396']
 
 //—————「 Set Wm 」—————//
 global.packname = ''
-global.author = 'Arxzy お-ぎ'
+global.author = 'shanachan team お-ぎ'
 global.prefa = ['', '.']
 global.sp = '•'
 
@@ -39,7 +39,7 @@ global.limitawal = {
 
 //—————「 Set Image 」—————//
 global.imageurl = 'https://telegra.ph/file/54bdfdfaeadbda3984b82.jpg'
-global.isLink = `https://youtube.com/@dryanbot`
+global.isLink = `https://youtube.com/@rizaedtz01`
 global.thumb = fs.readFileSync('./media/thumb.jpg')
 
 //—————「 Batas Akhir 」—————//
